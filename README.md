@@ -9,5 +9,5 @@
 
 1. Откройте ноутбук в [Google Colab](https://colab.research.google.com/drive/1-rCHHtOLcnpRcR7hl9PwVsS2g2TESMeD?usp=sharing)
 2. Создайте копию на диске
-3. Выполните все ячейки последовательно (Runtime → Run all)
+3. Выполните все ячейки последовательно
 4. Дашборд откроется автоматически
